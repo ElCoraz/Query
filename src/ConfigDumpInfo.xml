@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.Query" id="74826f4a-0778-4470-9f74-c351a7d4ac66" configVersion="1901a41bc0ab52ea4a8f8fb8e8fddd31a23bd780"/>
+		<Metadata name="HTTPService.Data" id="035d375c-edab-42b4-bfc3-b0753e60cfb6" configVersion="dd68e039fab78c3050d2c1d9698d91012fe47799">
+			<Metadata name="HTTPService.Data.URLTemplate.eval.Method.post" id="172faed2-4bd4-49b4-ad57-99430b8ffc1e"/>
+			<Metadata name="HTTPService.Data.URLTemplate.query.Method.post" id="728f473e-9048-4a08-9899-0b8083a91ac6"/>
+			<Metadata name="HTTPService.Data.URLTemplate.query" id="7f96b0a5-45b7-4324-9a49-4011364a9cd0"/>
+			<Metadata name="HTTPService.Data.URLTemplate.eval" id="facf6244-7cb7-466c-a95f-076f3cbba55a"/>
+		</Metadata>
+		<Metadata name="HTTPService.Data.Module" id="035d375c-edab-42b4-bfc3-b0753e60cfb6.0" configVersion="c015e5a55241619d249e595ab2e7590f8c2485ce"/>
+		<Metadata name="Language.Русский" id="48c9da33-764d-46ad-9bc7-68e62b0a1f1b" configVersion="b843300286bbad056672b977010b500d0c9ff900"/>
+		<Metadata name="Role.Query_ОсновнаяРоль" id="8076e336-f1b8-47a0-ad52-402e60f12981" configVersion="4e941def6042d2d4e0f0f6385f5a10875a08a2cd"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
